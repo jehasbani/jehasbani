@@ -1,7 +1,7 @@
 ## Hi there, welcome to my GitHub profile! 👋
 
 ### About me
-My name is Jonathan Hasbani, I'm a Bioengineer working as Data Engineer.
+My name is Jonathan Hasbani, I'm a Bioengineer working as Data Engineer. For my degree thesis I developed a classification for Alzheimer's Disease from MRI and biomarker data.
 
 ### What I'm working on
 I'm working on a Django and Dash integration project, keep posted! It'll be cool!
